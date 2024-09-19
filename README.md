@@ -32,7 +32,7 @@ Don't mind the unfilled-out readme file...
 ## 🚀 Projects
 
 ## 💼 Skills
-Lowkey forgor how to code 💀
+
 ## 🌐 Connect with Me
 
 <!-- Social media and contact links -->
