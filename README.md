@@ -5,7 +5,11 @@
 
 <!-- Brief introduction about yourself, your interests, and what you do -->
 
-Don't mind the unfilled-out readme file... 
+I am a third year Computer Science Major with passion for development. Some of my hobbies include going to the gym, cars, video games, and playing guitar. 
+
+## 🌐 My Website
+
+https://ryankles.github.io/
 
 ## 📊 Stats
 
